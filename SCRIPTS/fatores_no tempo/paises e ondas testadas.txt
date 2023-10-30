@@ -1,12 +1,22 @@
 País,ondas verificadas
 
-Argenttina 2,3,5,6 e 7
+Argentina 2,3,5,6 e 7
 Brasil 2,3,5,6 e 7
 Chile 2,3,5 e 7 (*6 não convergiu)
 Guatemala 5 e 7
 México 2,3,5, 6 e 7
 Peru 3,5 e 7 (*6 não convergiu)
 Uruguai 3,5,6 e 7
+
+Os casos da onda 5 da Colômbia, onda 3 da Venezuela, ondas 3 e 7 de Porto Rico e ondas 5 e 6 de Trinidad e Tobago não foram passíveis de se testar nos dados do capítulo 3, mas foram testados aqui.
+
+Colômbia 5 e 7 
+Venezuela 3 e 7
+Porto Rico 3 e 7
+Trinidad e Tobago 5 e 6
+
+
+
 
 não foi possível testar (não convergiu - ou estatísticas de ajuste inadequadas):
 Chile e Peru  Onda 6 
@@ -18,3 +28,5 @@ Guatemala - PróMercado onda 5 (e por só ter dois pontos, não foi possível te
 Mexico - Autoritarismo onda 2
 Mexico - Autoritarismo onda 5
 Peru - Fundamentalismo onda 5
+Colômbia - Autoritarismo onda 7 (e por só ter dois pontos, não foi possível testar essa dimensão) 
+
