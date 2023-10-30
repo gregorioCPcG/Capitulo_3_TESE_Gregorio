@@ -13,8 +13,8 @@ trinidad5 <- trinidad5[, -1]
 trinidad6 <- trinidad6[, -1]
 
 #colocar onda
-trinidad5$wave <- 'Onda 3'
-trinidad6$wave <- 'Onda 7'
+trinidad5$wave <- 'Onda 5'
+trinidad6$wave <- 'Onda 6'
 
 df <- full_join(trinidad5,trinidad6)
 table(df$wave)
