@@ -1,0 +1,20 @@
+País,ondas verificadas
+
+Argenttina 2,3,5,6 e 7
+Brasil 2,3,5,6 e 7
+Chile 2,3,5 e 7 (*6 não convergiu)
+Guatemala 5 e 7
+México 2,3,5, 6 e 7
+Peru 3,5 e 7 (*6 não convergiu)
+Uruguai 3,5,6 e 7
+
+não foi possível testar (não convergiu - ou estatísticas de ajuste inadequadas):
+Chile e Peru  Onda 6 
+Brasil- Autoritarismo Onda 2
+Chile- Autoritarismo Onda 2
+Chile - PróMercado onda 3
+Chile - PróMercado onda 5
+Guatemala - PróMercado onda 5 (e por só ter dois pontos, não foi possível testar essa dimensão)
+Mexico - Autoritarismo onda 2
+Mexico - Autoritarismo onda 5
+Peru - Fundamentalismo onda 5

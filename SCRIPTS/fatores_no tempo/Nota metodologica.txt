@@ -1,0 +1,4 @@
+Para CHEGAR A ESSES BANCOS E scripts foi necessário rodar todos os AFC descritos no capítulo 3 da tese, para ver como foram feito sugiro olhar os scripts de lá no link>
+
+https://github.com/gregorioCPcG/Capitulo_3_TESE_Gregorio/tree/main/SCRIPTS
+
