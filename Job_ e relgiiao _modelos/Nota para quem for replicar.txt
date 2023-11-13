@@ -1,0 +1,3 @@
+Rodar antes os de cada país:
+
+https://github.com/gregorioCPcG/Capitulo_3_TESE_Gregorio/tree/main/SCRIPTS
